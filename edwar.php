@@ -11,7 +11,7 @@
 
 <div class="container">  
   <form id="contact" action="server.php" method="post">
-    <h3>Contacto</h3>
+    <h3>CABECERA cabecera</h3>
     <h4>Contact us today, and get reply with in 24 hours!</h4>
     <fieldset>
         <p>Ingrese su edad</p>
