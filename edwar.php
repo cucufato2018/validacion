@@ -11,8 +11,8 @@
 
 <div class="container">  
   <form id="contact" action="server.php" method="post">
-    <h3>CABECERA cabecera</h3>
-    <h4>Contact us today, and get reply with in 24 hours!</h4>
+    <h3>Validacion de edad</h3>
+    <h4>Este es un formulario de validacion de edad</h4>
     <fieldset>
         <p>Ingrese su edad</p>
       <input name="edad"  type="text">
