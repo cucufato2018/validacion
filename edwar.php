@@ -12,8 +12,8 @@
 
 <div class="container">  
   <form id="contact" action="server.php" method="post">
-    <h3>Validacion de edad</h3>
-    <h4>Este es un formulario de validacion de edad</h4>
+    <h3>Validacion de ingreso</h3>
+    <h4>Formulario para validar edad de la persona</h4>
     <fieldset>
         <p>Ingrese su edad</p>
       <input name="edad"  type="text">
